@@ -1,0 +1,8 @@
+{
+  "titel": "Pomodoro Studie Timer",
+  "werkMinuten": 25,
+  "kortePauzeMinuten": 5,
+  "langePauzeMinuten": 30,
+  "langePauzeNa": 4,
+  "logBestand": "pomodoro.log"
+}
